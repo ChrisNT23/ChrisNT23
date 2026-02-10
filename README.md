@@ -41,32 +41,42 @@
 </div>
 
 <br/>
-
-<!-- ===================== QA TESTING ===================== -->
 <h4 align="left">🧪 QA Testing</h4>
 <div align="left">
 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Katalon-2ECC71?style=for-the-badge&logo=katalon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+  <!-- Postman -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="50"/>
+  <img width="15"/>
+
+  <!-- Apache JMeter (no existe oficial, se usa Apache) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="50"/>
+  <img width="15"/>
+
+ <img src="https://img.shields.io/badge/-Katalon-2ECC71?logo=katalon&logoColor=white&style=flat-square" height="40"/>
+  <img width="10"/>
+
+  <!-- k6 -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/k6.svg" height="50"/>
 
 </div>
-
 
 <br/>
-
-<!-- ===================== ANALISIS DE DATOS ===================== -->
-<h4 align="left">📊Data Analysis</h4>
+<h4 align="left">📊 Análisis de Datos</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="50"/>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+
+  <!-- SQL Server -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
   <img width="15"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50"/>
+
+ <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="40"/>
 </div>
+
 
 <a/>
 
